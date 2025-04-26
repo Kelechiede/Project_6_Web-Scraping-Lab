@@ -70,15 +70,15 @@ The dataset contains information about:
 
 Explore the full project with visuals and insights via the hosted dashboard:
 
-[![View in Browser](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=plotly)](https://kelechiede.github.io/Project_6_Web-Scraping-Lab/dashboard/Web-Scraping-More-Labs.html)
-- 📄 [Download as PDF](dashboard/Web-Scraping-More-Labs.pdf)
+[![View in Browser](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=plotly)](https://kelechiede.github.io/Project_6_Web-Scraping-Lab/browser-view/Web-Scraping-More-Labs.html)
+- 📄 [Download as PDF](browser-view/Web-Scraping-More-Labs.pdf)
 
 > 💡 This notebook includes bar charts, job demand visualizations, and clean API data analysis — best viewed on a desktop browser.
 
 ---
 
 - 📁 **Original Jupyter Notebook**: `notebooks/Web-Scraping-More-Labs.ipynb`
-- 📄 **Static HTML Version**: [`Web-Scraping-More-Labs.html`](https://kelechiede.github.io/Project_6_Web-Scraping-Lab/dashboard/Web-Scraping-More-Labs.html)
+- 📄 **Static HTML Version**: [`Web-Scraping-More-Labs.html`](https://kelechiede.github.io/Project_6_Web-Scraping-Lab/browser-view/Web-Scraping-More-Labs.html)
 
 
 ---
